@@ -14,6 +14,14 @@ This repository contains publications that I wrote for the PittPulse during my t
 
 This paper introduces the concepts of [Computational Docking](https://en.wikipedia.org/wiki/Docking_(molecular)) to a broader audience since Computational Biology is my passion! After an introduction to the principles of docking which motivates the subsequent point, I introduced the audience to a new docking program that has MASSIVE potential. The software is known as [BADock](https://www.ncbi.nlm.nih.gov/pubmed/29028891). Article was published March 2018. 
 
+📜 `Computational Genomics Through the Lens of Dr. Miler Lee.pdf`
+
+Publication of article based on interview I conducted with [Dr. Miler Lee](https://www.biology.pitt.edu/person/miler-lee) about the importance of Computational Genomics and advice he has for current undergraduates interested in that field. 
+
+📜 `Miler Lee Interview Transcript.pdf`
+
+Transcript of interview conducted for the publication mentioned above. 
+
 
 **Contact Information** 
 
